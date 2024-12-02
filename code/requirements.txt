@@ -3,4 +3,7 @@ pandas
 jupyter
 matplotlib
 xgboost
+seaborn
 scikit-learn
+shap
+tqdm

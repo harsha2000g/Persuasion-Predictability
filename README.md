@@ -1,4 +1,5 @@
 # Persuasion-Predictability`
 
-300 annotated - strategy based analysis instead of GPT-4 generated markers
-B6 as the persuasion column instead of the  
+Persuasion for Good dataset has been selected for the persuasion analysis.
+
+We shall consider the value in the column B6 as the persuasion metric.
